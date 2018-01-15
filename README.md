@@ -1,6 +1,7 @@
 
-# [Personal portfolio website](http://miguelangelgarcia.com)
+# Personal portfolio website
 
+NOTE: This website has been achieved.
 This has been put together is such a way it will optimize file size and development. The idea here is to create a well organize code following best practices from file structure to code.
 
 A lot of the concepts here will be great stepping-stones that will help larger future projects.
